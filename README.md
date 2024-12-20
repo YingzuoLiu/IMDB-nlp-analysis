@@ -1,2 +1,2 @@
 # IMDB-nlp-analysis
-Pytorch/Logistic Regression with TF-IDF/DistilBERT
+Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
